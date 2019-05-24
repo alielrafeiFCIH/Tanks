@@ -1,7 +1,7 @@
 # Tanks
 MultiPlayer game built with unity
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=WKIDeiQlQMs)
+[![Watch the video](https://drive.google.com/drive/u/0/folders/151dMsTyvLnV12mFwWXkma1vJLbmmQOIK)](https://www.youtube.com/watch?v=WKIDeiQlQMs)
 
 Developed by:
 - **Ahmed Mohamadeen** [@ahmeed2m](git.io/ahmed)
