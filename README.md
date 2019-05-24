@@ -10,6 +10,7 @@ Developed by:
 - **Omar Farouk** [@Onsymers](github.com/Onsymers)
 
 ### Requirements
-Windows 10 64bit 
-download link:https://drive.google.com/open?id=1wfHTxkIojuTrgsXrE4QuiodjkBU15wxn
+Windows 10 64bit.
+
+### Download link: https://drive.google.com/open?id=1wfHTxkIojuTrgsXrE4QuiodjkBU15wxn
 
