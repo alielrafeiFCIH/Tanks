@@ -11,7 +11,7 @@ Developed by:
 - **Omar Farouk** [@Onsymers](github.com/Onsymers)
 
 #Game Play Video
-[<img src="https://drive.google.com/file/d/1zfPAXVOcw3aLx5-CEZz9HNA903vsCXzU/view?usp=sharing" width="50%">](https://www.youtube.com/watch?v=WKIDeiQlQMs)
+[<img src="http://www.missing-lynx.com/gallery/britain/mbhoney-4.jpg" width="50%">](https://www.youtube.com/watch?v=WKIDeiQlQMs)
 
 ### Requirements
 Windows 10 64bit.
