@@ -11,9 +11,7 @@ Developed by:
 - **Omar Farouk** [@Onsymers](github.com/Onsymers)
 
 #Game Play Video
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 ### Requirements
 Windows 10 64bit.
