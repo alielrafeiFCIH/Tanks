@@ -12,7 +12,9 @@ Developed by:
 
 #Game Play Video
 
-[![IMAGE ALT TEXT HERE]()]([https://youtu.be/WKIDeiQlQMs](https://youtu.be/WKIDeiQlQMs))
+[![Tanks Unity Game ]          // Title
+(http://www.missing-lynx.com/gallery/britain/mbhoney-4.jpg)] // Thumbnail
+(https://youtu.be/WKIDeiQlQMs "Tanks Unity Game")
 
 ### Requirements
 Windows 10 64bit.
