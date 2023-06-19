@@ -10,7 +10,8 @@ Developed by:
 - **Aly Moataz**
 - **Omar Farouk** [@Onsymers](github.com/Onsymers)
 
-#Game Play Video
+Game Play Video
+
 [<img src="http://www.missing-lynx.com/gallery/britain/mbhoney-4.jpg" width="50%">](https://www.youtube.com/watch?v=WKIDeiQlQMs)
 
 ### Requirements
