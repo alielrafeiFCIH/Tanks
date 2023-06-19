@@ -1,7 +1,7 @@
 # Tanks
 MultiPlayer game built with unity
 
-[![Watch the video](https://drive.google.com/file/d/1zfPAXVOcw3aLx5-CEZz9HNA903vsCXzU/view?usp=sharing)](https://www.youtube.com/watch?v=WKIDeiQlQMs)
+[
 
 Developed by:
 - **Ahmed Mohamadeen** [@ahmeed2m](git.io/ahmed)
@@ -11,7 +11,7 @@ Developed by:
 - **Omar Farouk** [@Onsymers](github.com/Onsymers)
 
 #Game Play Video
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[<img src="https://drive.google.com/file/d/1zfPAXVOcw3aLx5-CEZz9HNA903vsCXzU/view?usp=sharing" width="50%">](https://www.youtube.com/watch?v=WKIDeiQlQMs)
 
 ### Requirements
 Windows 10 64bit.
