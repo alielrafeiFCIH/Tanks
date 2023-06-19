@@ -12,7 +12,7 @@ Developed by:
 
 #Game Play Video
 
-[![IMAGE ALT TEXT HERE]()]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/WKIDeiQlQMs))
+[![IMAGE ALT TEXT HERE]()]([https://youtu.be/WKIDeiQlQMs](https://youtu.be/WKIDeiQlQMs))
 
 ### Requirements
 Windows 10 64bit.
