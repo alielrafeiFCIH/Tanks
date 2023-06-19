@@ -11,10 +11,9 @@ Developed by:
 - **Omar Farouk** [@Onsymers](github.com/Onsymers)
 
 #Game Play Video
-
-[![Tanks Unity Game ]          // Title
-(http://www.missing-lynx.com/gallery/britain/mbhoney-4.jpg)] // Thumbnail
-(https://youtu.be/WKIDeiQlQMs "Tanks Unity Game")
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
 
 ### Requirements
 Windows 10 64bit.
